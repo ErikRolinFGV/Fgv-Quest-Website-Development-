@@ -32,6 +32,8 @@ The goal is to provide a clean and scalable foundation for the league's online p
 - **Erik Nonato Rolin**
 - **Pedro Arthur Duran**
 - **Andre França**
+- **Pedro Benji Bezerra**
+- **Gustavo Oliveira**
 
 ---
 
